@@ -16,7 +16,7 @@ int main() {
         cout << "3. Save contacts to file\n";
         cout << "4. Delete a contact\n";
         cin >> menu;
-
+    //.
         switch (menu) {
         case 0:
             cout << "Exiting...\n";
