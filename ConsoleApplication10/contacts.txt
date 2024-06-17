@@ -1,0 +1,10 @@
+gnom,1234
+mixa,8213
+dima,2345
+maks,8293
+ilia,3156
+pita,8230
+denis,5653
+mama,9872
+papa,7203
+hedgehog,0234
